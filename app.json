@@ -2,7 +2,7 @@
   "name": "RCD-MD",
   "description": "Your WhatsApp assistant for smarter, automated interactions.",
   "repository": "https://github.COM/rcd-git-hub-official/RCD-MD",
-  "logo": "https://i.ibb.co/bgfFFjF/Videoshot-20221026-164328.jpg&name=900x900",
+  "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf-KeBRQkzHhpzunQ470qGrxy6E2VFPn4FRg&usqp=CAU",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "success_url": "/",
   "stack": "container",
